@@ -387,8 +387,6 @@ def main(twitter_id):
 
     new_images_downloaded_session = 0
     for i, snapshot in enumerate(snapshots):
-        #if i <1555:
-        #  continue
         timestamp, original_url = snapshot
         wayback_page_url = f"https://web.archive.org/web/{timestamp}/{original_url}"
 
@@ -419,4 +417,5 @@ if __name__ == "__main__":
     # 示例: twitter_ids_to_process = ["NASA","realDonaldTrump"]
     twitter_ids_to_process = [""]
     for name in twitter_ids_to_process:
+
         main(name)
