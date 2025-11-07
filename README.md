@@ -24,3 +24,7 @@ python main.py
 ## 在Colab中直接运行
 
 [![Open In colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bBaM35CL08QV9k6uXH-FNT4qwprN4kzA?usp=sharing)
+
+## 如果对你有所帮助，感谢打赏
+
+![我的照片](./wecha.png)
