@@ -27,4 +27,6 @@ python main.py
 
 ## 如果对你有所帮助，感谢打赏
 
-![我的照片](./wecha.png)
+<img src="./wechat.png" alt="wechat" width="500" />
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Octocat" width="50%" />
